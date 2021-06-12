@@ -1,2 +1,2 @@
-# java-data-structure-project-1
+# Boston University MSCS Data Structure 
  
