@@ -16,7 +16,6 @@ public class TestProgression
 		System.out.print("Hw1Progression with 5 as the start value: ");
 		Prog = new Progression_1(5);
 		Prog.printProgression(10); //Print the first 10 values on the screen
-			
 	}
 	
 }
